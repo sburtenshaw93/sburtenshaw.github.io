@@ -1,0 +1,54 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1493552152660-f915ab47ae9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGdyZWVuJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1400&q=60");
+    height: 100%;
+    width: 100%;
+    
+}
+#outline {
+    color: rgb(77, 60, 60);
+    font-family: 'Alata', sans-serif;
+}
+#capstoneLink {
+    background-color: transparent;
+    font-size: 25px;
+    border-style: none;
+    
+}
+#capstoneLink:hover {
+    background-color: rgb(151, 137, 137);
+    border-radius: 10px;
+}
+#images {
+    height: 55%;
+    width: 55%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+#contact{
+    color: white;
+    font-family: 'Alata', sans-serif;
+}
+#linkedin {
+    background-color: transparent;
+    font-size: 25px;
+    border-style: none;
+    font-family: 'Alata', sans-serif;
+    color: white;
+}
+#linkedin:hover {
+    background-color: rgb(151, 137, 137);
+    border-radius: 10px;
+}
+#github {
+    background-color: transparent;
+    font-size: 25px;
+    border-style: none;
+    font-family: 'Alata', sans-serif;
+    color: white;
+}
+#github:hover {
+    background-color: rgb(151, 137, 137);
+    border-radius: 10px;
+}
